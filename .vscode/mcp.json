@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "longmen-skills": {
+      "type": "streamable-http",
+      "url": "https://longmen-mcp.longmen-skills.workers.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer lm-88bfc3ea8d2519e70904de4a18b42c2a"
+      }
+    }
+  }
+}
